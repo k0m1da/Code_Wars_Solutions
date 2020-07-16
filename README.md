@@ -4,7 +4,7 @@
 [![Code Style](https://img.shields.io/badge/code%20style-clean-ff69b4)](https://img.shields.io/badge/code%20style-clean-ff69b4)
 ![Language](https://img.shields.io/badge/Java-Java%2011-9cf)
 
-This are my personal solutions to [Codewars](https://www.codewars.com/) problems written in Java 11.
+These are my personal solutions to [Codewars](https://www.codewars.com/) problems written in Java 11.
 
  - Codewars supports Java 8 and Java 11.
 
